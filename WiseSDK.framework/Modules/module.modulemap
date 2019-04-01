@@ -1,0 +1,6 @@
+framework module WiseSDK {
+  umbrella header "WiseSDK.h"
+
+  export *
+  module * { export * }
+}
